@@ -64,13 +64,14 @@
   line-height: 20px;
 }
 
-.accent {
+.header_span-accent {
   color: var(--azul_claro--);
   font-family: "noto serif";
   font-style: italic;
   font-weight: normal;
   font-size: 58px;
   line-height: 72px;
+  display: block;
 }
 .header__title {
   font-family: "Inter";
