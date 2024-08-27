@@ -64,7 +64,7 @@
   line-height: 20px;
 }
 
-.header_span-accent {
+.header__span-accent {
   color: var(--azul_claro--);
   font-family: "noto serif";
   font-style: italic;
@@ -92,7 +92,7 @@
   max-width: 683px;
   margin: 28px 0 0;
 }
-.image_coffee {
+.header__coffee-shop-img {
   position: absolute;
   width: 646px;
   top: 124px;
