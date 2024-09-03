@@ -176,3 +176,32 @@
   font-size: 20px;
   line-height: 30px;
 }
+
+.reservation {
+  background-image: url("/images/web_project_4_files/background_reservation.svg");
+  color: #000000;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px 50px 120px ;
+
+.reservation__title {
+}
+.reservation__form {
+}
+
+.form {
+}
+
+.form__fieldset {
+}
+
+.form__button {
+  border-radius: 4px;
+  opacity: 1;
+}
+.button:hover {
+}
+.reservation__form_form__item_el_extra-options {
+  border-radius: 2px;
+}
