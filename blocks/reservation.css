@@ -31,3 +31,7 @@
 
   margin: 0 auto;
 }
+
+.reservation__form_form__item_el_extra-options {
+  border-radius: 2px;
+}

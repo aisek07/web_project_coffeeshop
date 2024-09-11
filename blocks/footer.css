@@ -15,7 +15,7 @@
   width: 105px;
 }
 .footer__circle {
-  background-color: var(--azul_claro--);
+  background-color: #2f80ed;
   height: 340px;
   width: 340px;
   border-radius: 50%;
@@ -48,7 +48,7 @@
 }
 .footer__list-item {
 }
-.footer__social__link {
+.footer__social-link {
   color: white;
   text-decoration: none;
   font-family: "Inter";
