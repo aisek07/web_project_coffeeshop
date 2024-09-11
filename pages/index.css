@@ -6,10 +6,3 @@
 @import url(../blocks/reservation.css);
 @import url(../blocks/form.css);
 @import url(../blocks/footer.css);
-
-:root {
-  --azul_claro--: #2f80ed;
-  --cinza_claro_bordas--: #838383;
-  --cinza_escuro_horarios--: #6f6f6f;
-  --azul_escuro--: #0a2850;
-}
