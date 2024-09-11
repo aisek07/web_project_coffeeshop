@@ -13,7 +13,6 @@
       name="keywords"
       content="metadados, VSNExplorer, automação, dados, eficiência, produtividade"
     />
-    <link rel="stylesheet" href="./vendor/normalize.css" />
     <link rel="stylesheet" href="./pages/index.css" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
@@ -154,23 +153,59 @@
               <button type="submit" class="form__button">
                 Reservar uma mesa
               </button>
-
-              <input
-                type="checkbox"
-                name="extra-option"
-                id="termos"
-                class="form__ckeckbox"
-                value="bold-heading"
-                required
-              />
-              <label for="termos" class="form__label"
-                >Eu concordo com os termos de uso</label
+              <label for="termos" class="form__label form__label_checkbox">
+                <input
+                  type="checkbox"
+                  name="extra-option"
+                  id="termos"
+                  class="form__ckeckbox"
+                  value="bold-heading"
+                  required
+                />
+                Eu concordo com os termos de uso</label
               >
             </fieldset>
           </form>
         </section>
       </main>
-      <footer class="footer"></footer>
+      <footer class="footer" id="contacts">
+        <div class="footer__circle"></div>
+        <div class="footer__content">
+          <div class="footer__content">
+            <img
+              src="./images/web_project_4_files/logo_coffeeshop_light.svg"
+              alt="Logotipo do Triple Espresso"
+              class="footer__logo"
+            />
+          </div>
+          <div class="footer__social">
+            <strong class="footer__social-heading">Mídias Sociais</strong>
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <a href="#" class="footer__social__link">
+                  <img
+                    src="./images/web_project_4_files/facebook_white.svg"
+                    alt="Logo do Facebook"
+                    class="footer__social-icon"
+                  />
+                  Facebook
+                </a>
+              </li>
+              <li class="footer__list-item">
+                <a href="#" class="footer__social__link">
+                  <img
+                    src="./images/web_project_4_files/instagram_white.svg"
+                    alt="Logo do Instagram"
+                    class="footer__social-icon"
+                  />
+                  Instagram
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <p class="footer__copyright">© 2024 AISEK</p>
+      </footer>
     </div>
   </body>
 </html>
