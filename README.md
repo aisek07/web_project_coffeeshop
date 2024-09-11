@@ -11,7 +11,7 @@ Gerenciamento de menu : o site permite que o público assista videos de receitas
 Ideia de melhoria :
 
 Implementar um recurso de Programa de Fidelidade do Cliente usando um banco de dados.
-Recompense os clientes pela repetição dos negócios, incentivando a fidelidade e aumentando a retenção de clientes.
+Recompensar os clientes pela repetição dos pedidos, incentivando a fidelidade e aumentando a retenção de clientes.
 
 Como funcionaria:
 
